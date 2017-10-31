@@ -9,7 +9,7 @@ int main()
  
    c = a + b;
 
-   d = a - b:
+   d = a - b;
 
    printf("Sum of entered numbers = %d\n",c);
  

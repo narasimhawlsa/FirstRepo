@@ -1,2 +1,5 @@
 file2 data`:wq
+new line added now
+new line added now
+new line added now
 
